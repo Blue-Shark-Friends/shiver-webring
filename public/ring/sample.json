@@ -3,19 +3,9 @@
     "description": "Short description of the purpose of the web ring.",
     "sites": [
         {
-            "name": "Michael D'Angelo",
-            "link": "https://mldangelo.com",
+            "name": "Lilith Doe",
+            "link": "https://lilithdoe.shivernet.social",
             "title": "Software Engineer"
-        },
-        {
-            "name": "Ian Webster",
-            "link": "https://ianww.com",
-            "title": "Hacker Extraordinaire" 
-        },
-        {
-            "name": "Judy",
-            "link": "http://www.judymou.com",
-            "title": "Staff Software Engineer"    
         }
     ]
 }

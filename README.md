@@ -1,4 +1,5 @@
-# open-webring
+# shiver-webring
+*A fork of open-webring*
 
 Join a webring, create your own, or fork this repository and host your own for free.
 
@@ -33,9 +34,9 @@ TODO: Talk about membership.
 
   ```json
   {
-    "name": "Michael D'Angelo",
+    "name": "Lilith Doe",
     "title": "Software Engineer",
-    "url": "https://mldangelo.com"
+    "url": "https://lilithdoe.shivernet.social"
   }
   ```
 

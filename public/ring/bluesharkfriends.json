@@ -1,0 +1,51 @@
+{
+    "name": "Blue Shark Friends Shiver",
+    "description": "This is the shiver that supports Blue Shark Friends.",
+    "sites": [
+        {
+            "name": "Hannah Parker",
+            "link": "https://hannahparker.bluesharkfriends.com",
+            "title": "Pirate"
+        },
+        {
+            "name": "Josie Stewart",
+            "link": "https://called2voyage.bluesharkfriends.com",
+            "title": "Pirate"
+        },
+        {
+            "name": "Cara Lynn Carter",
+            "link": "https://caralynncarter.bluesharkfriends.com",
+            "title": "Deckhand"
+        },
+        {
+            "name": "Fred Beck",
+            "link": "https://fredbeck.bluesharkfriends.com",
+            "title": "Deckhand"
+        },
+        {
+            "name": "Juniper Lusby",
+            "link": "https://juniperlusby.bluesharkfriends.com",
+            "title": "Deckhand"
+        },
+        {
+            "name": "Sage Myers",
+            "link": "https://sagemyers.bluesharkfriends.com",
+            "title": "Deckhand"
+        },
+        {
+            "name": "Angel H.",
+            "link": "https://angel.bluesharkfriends.com/",
+            "title": "Deckhand"
+        },
+        {
+            "name": "Levi Jupiter Niederaurer",
+            "link": "https://jupiter.bluesharkfriends.com",
+            "title": "Crewmate"
+        },
+        {
+            "name": "Alyssa Crowe",
+            "link": "https://alyssa-crowe.bluesharkfriends.com",
+            "title": "Crewmate"
+        }
+    ]
+}

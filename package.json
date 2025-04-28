@@ -1,5 +1,5 @@
 {
-  "name": "@open-webring/site",
+  "name": "shiver-webring",
   "version": "0.0.1",
   "description": "join or create webrings",
   "main": "validate.js",
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mldangelo/open-webring.git"
+    "url": "git+https://github.com/Blue-Shark-Friends/shiver-webring.git"
   },
-  "author": "Michael D'Angelo (michael.l.dangelo@gmail.com)",
+  "author": "Blue Shark Friends",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mldangelo/open-webring/issues"
