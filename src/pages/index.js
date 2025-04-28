@@ -41,16 +41,16 @@ const RingWorld = () => (
 const Index = () => (
   <>
     <NextSeo
-      title="Welcome to Open-WebRing!"
+      title="Welcome to Shiver-WebRing!"
       description="A free, open-source, MIT licensed WebRing Community. Join a ring, create your own, or host your own."
     />
     <div className="center">
-      <h1>Open-Webring</h1>
+      <h1>Shiver-Webring</h1>
       <p>
         Learn about how to join or create a ring{' '}
         <Link
-          href="https://github.com/mldangelo/open-webring"
-          as="https://github.com/mldangelo/open-webring"
+          href="https://github.com/Blue-Shark-Friends/shiver-webring"
+          as="https://github.com/Blue-Shark-Friends/shiver-webring"
         >
           <a>here</a>
         </Link>
@@ -58,12 +58,12 @@ const Index = () => (
       </p>
       <div style={{ width: '570px' }}>
         <p>
-          Welcome to Open-WebRing, an homage to the most exciting way to
+          Welcome to Shiver-WebRing, an homage to the most exciting way to
           navigate the World Wide Web!
         </p>
         <p>
-          Open-Webring is a free, open-source, MIT lincensed WebRing community
-          designed for hobbyists , enthusiasts, artists, nostalgists, creatives,
+          Shiver-Webring is a free, open-source, MIT licensed WebRing community
+          designed for hobbyists, enthusiasts, artists, nostalgists, creatives,
           and for you.
         </p>
         <p>
@@ -76,7 +76,7 @@ const Index = () => (
           to travel to other sites in the Ring.
         </p>
         <p>
-          Any web site owner can apply to join an existing Ring orcreate a new
+          Any web site owner can apply to join an existing Ring or create a new
           Ring. Rings may be listed in the RingWorld Directory once they contain
           at least five sites.
         </p>
